@@ -1,3 +1,5 @@
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green)](https://www.paypal.me/vgscarlino)
+
 ![HomeKitFlasher](https://github.com/vglucas/HomeKitFlasher/blob/master/HomeKitFlasher.jpg)
 
 

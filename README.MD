@@ -1,3 +1,5 @@
+Click on >>> DOWNLOAD <<< to download the program
+
 Cliccare su >>> DOWNLOAD <<< per scaricare il programma
 
 [![Downloads](https://img.shields.io/github/downloads/vglucas/HomeKitFlasher/total?color=yellow&label=Downloads)](https://github.com/vglucas/HomeKitFlasher/releases/download/v.1.0/HomeKitFlasher.exe)   [![Donate](https://img.shields.io/badge/Donate-PayPal-green)](https://www.paypal.me/vgscarlino)

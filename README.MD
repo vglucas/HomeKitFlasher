@@ -1,3 +1,9 @@
+In caso di erroe nell'istallazione come da foto, scaricate questo pacchetto aggiuntivo di MICROSOFT
+
+![Microsoft Visual Studio Power Packs 10.0](https://go.microsoft.com/fwlink/?LinkID=145727&clcid=0x804&fbclid=IwAR1QmOpzJWPbgix8Wr2HrPH6ZTxVXy-pgQkJ8iGZ2hZHgekgAJc8mZc28PM)
+
+
+
 Click on >>> DOWNLOAD <<< to download the program
 
 Cliccare su >>> DOWNLOAD <<< per scaricare il programma

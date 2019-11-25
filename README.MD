@@ -3,7 +3,7 @@ In case of error in the installation as per photo, download this additional pack
 
 In caso di errore nell'istallazione come da foto, scaricate questo pacchetto aggiuntivo di MICROSOFT
 
-![Microsoft Visual Studio Power Packs 10.0](https://go.microsoft.com/fwlink/?LinkID=145727&clcid=0x804&fbclid=IwAR1QmOpzJWPbgix8Wr2HrPH6ZTxVXy-pgQkJ8iGZ2hZHgekgAJc8mZc28PM)
+![Microsoft Visual Studio Power Packs 10.0](https://go.microsoft.com/fwlink/?LinkID=145727&clcid=0x804)
 
 ![Microsoft Visual Studio Power Packs 10.0](https://github.com/vglucas/HomeKitFlasher/blob/master/MVS_powerpack10.jpg)
 

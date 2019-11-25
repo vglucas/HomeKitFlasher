@@ -5,7 +5,7 @@ In caso di errore nell'istallazione come da foto, scaricate questo pacchetto agg
 
 https://go.microsoft.com/fwlink/?LinkID=145727&clcid=0x804
 
-https://github.com/vglucas/HomeKitFlasher/blob/master/MVS_powerpack10.jpg
+![Microsoft Visual Basic Power Packs 10.0](https://github.com/vglucas/HomeKitFlasher/blob/master/MVS_powerpack10.jpg)
 
 Click on >>> DOWNLOAD <<< to download the program
 

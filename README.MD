@@ -20,6 +20,8 @@ Cliccare su >>> DOWNLOAD <<< per scaricare il programma
 
 HomekitFlasher is a simple application for Windows desktop environments developed for free and downloadable from https://github.com/vglucas/HomeKitFlasher. An excellent tool dedicated to those who are not familiar with the terminal and want to make, and speed up, the flash of their device. The main and predefined actions of the system also allow the Ravencore firmware flash, developed by José A. Jiménez and Life Cycle Manager called OTA (acronym of Over The Air) and created by HacK (HomeACcessoryKid). As we will see below, the program also allows third-party firmware flashes thanks to a simplified interface.
 
+it's nice to let everyone know that we use the program, new users can have a feddback of it, so click on the thumb up
+
 For any signaling from the menu ? - SEGNALA and send your report
 
 This program is updated to give you the best experiences
@@ -27,6 +29,8 @@ This program is updated to give you the best experiences
 
 HomekitFlasher è una semplice applicazione per ambienti desktop Windows sviluppata gratuitamente e scaricabile da https://github.com/vglucas/HomeKitFlasher . Un ottimo tool dedicato a chi non e' pratico col terminale e vuole effettuare, e velocizzare, il flash del proprio dispositivo. Le azioni principali e predefinite del sistema consentono altresì di effettuare il flash dei firmware Ravencore, sviluppato da José A. Jiménez e Life Cycle Manager chiamato OTA (acronimo di Over The Air) e realizzato da HacK (HomeACcessoryKid). Come vedremo di seguito il programma consente anche il flash di firmware di terze parti grazie ad una semplificata interfaccia.
 
+
+e' bello far conoscere a tutti che usiamo il programma, i nuovi utenti potranno avere un feddback dello stesso, quindi cliccate sul pollice in su 
 
 Per qualsiasi segnalazione dal menù ? - Segnala ed inviate la vostra segnalazione
 
